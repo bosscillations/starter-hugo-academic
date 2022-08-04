@@ -47,4 +47,6 @@ experience:
 
 design:
   columns: '2'
+  background:
+    color: 'navy'
 ---
