@@ -14,19 +14,21 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Bosscillations
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=0UPUbCkAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/bosscillations
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ryan-hubbard-83738613b/
 organizations:
-  - name: University of Illinois, Urbana-Champaign
-    url: https://illinois.edu/
+  - name: Cognition and Brain Laboratory
+    url: https://cogandbrainlab.web.illinois.edu/
+  - url: https://cogandbrainlab.web.illinois.edu/
+    name: University of Illinois, Urbana-Champaign
 education:
   courses:
     - course: Ph.D., Psychology
