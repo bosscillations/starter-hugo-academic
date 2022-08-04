@@ -12,6 +12,21 @@ name = "my_theme"
   menu_title = "#fff"
 
   # Backgrounds
-  background = "#ff0000"
-  home_section_odd = "#ff0000"
-  home_section_even = "#ff0000"
+  background = "#c8c8c8"
+  home_section_odd = "#c8c8c8"
+  home_section_even = "#c8c8c8"
+  
+[dark]
+  # Primary
+  primary = "#06164a"
+
+  # Menu
+  menu_primary = "#000"
+  menu_text = "#fff"
+  menu_text_active = "#fdfbe4"
+  menu_title = "#fff"
+
+  # Backgrounds
+  background = "#323232"
+  home_section_odd = "#323232"
+  home_section_even = "#323232"
