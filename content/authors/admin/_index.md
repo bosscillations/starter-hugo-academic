@@ -1,7 +1,7 @@
 ---
 title: Ryan Hubbard
 role: Postdoctoral Research Associate
-avatar_filename: me_resize.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
