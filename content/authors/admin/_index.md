@@ -8,6 +8,7 @@ interests:
   - Cognitive Neuroscience
   - Language and Prediction
   - Memory
+  - Aging
   - EEG Analysis Methods
 social:
   - icon: envelope
