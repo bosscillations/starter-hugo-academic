@@ -31,6 +31,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ryan-hubbard-83738613b/
+  - display:
+      header: false
+    link: https://github.com/bosscillations/starter-hugo-academic/blob/main/static/uploads/CV_7_28_2022.pdf
+    icon_pack: ai
+    icon: CV
 organizations:
   - name: Cognition and Brain Laboratory
     url: https://cogandbrainlab.web.illinois.edu/
