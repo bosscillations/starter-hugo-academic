@@ -5,9 +5,9 @@ avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Language
+  - Memory
+  - EEG
 social:
   - icon: envelope
     icon_pack: fas
@@ -18,6 +18,11 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=0UPUbCkAAAAJ&hl=en
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Ryan-Hubbard-2
+    icon_pack: ai
+    icon: researchgate
   - icon: github
     icon_pack: fab
     link: https://github.com/bosscillations
