@@ -5,9 +5,10 @@ avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Language
+  - Cognitive Neuroscience
+  - Language and Prediction
   - Memory
-  - EEG
+  - EEG Analysis Methods
 social:
   - icon: envelope
     icon_pack: fas
