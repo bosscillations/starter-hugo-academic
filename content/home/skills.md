@@ -15,7 +15,7 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 10%
-    icon: matlab4
+    icon: matlab_v3
     icon_pack: custom
     name: MATLAB
 ---
