@@ -2,8 +2,7 @@
 title: Ryan Hubbard
 role: Postdoctoral Research Associate
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Postdoctoral Research Associate at UIUC
 interests:
   - Cognitive Neuroscience
   - Language and Prediction
@@ -56,9 +55,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+I am currently a postdoctoral research associate in the {{< staticref "https://cogandbrainlab.web.illinois.edu/" "newtab" >}}Cognition and Brain Laboratory{{< /staticref >}} at the University of Illinois, Urbana-Champaign. Previously, I was a {{< staticref "https://beckman.illinois.edu/" "newtab" >}}Beckman Institute Postdoctoral Fellow{{< /staticref >}}, and before that I was a postdoctoral researcher at {{< staticref "https://www.hrl.com/laboratories/issl/" "newtab" >}}HRL Laboratories{{< /staticref >}}.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am primarily interested in the cognitive neuroscience of language and memory, and study these processes using psychological experiments in conjunction with electrophysiological recordings and analyses. Additionally, I am interested in how these mechanisms change with age, as well as how they are influenced by strategies or metacognitive processes. My research career has led to many secondary interests, including attention, sleep, neurostimulation, and EEG analysis methods. I consider myself a Collaborative Cognitive Neuroscientist, and working with other scientists to answer interesting questions is one of my favorite aspects of research.
