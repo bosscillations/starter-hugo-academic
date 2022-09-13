@@ -37,7 +37,7 @@ draft: false
 featured: false
 image:
   filename: featured.png
-  focal_point: Smart
+  focal_point: TopRight
   preview_only: false
   caption: Here's a test caption
 date: 2019-08-28T19:04:12.138Z
