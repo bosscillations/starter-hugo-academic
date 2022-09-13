@@ -1,11 +1,13 @@
 ---
 title: Downstream behavioral and electrophysiological consequences of word
-  prediction on recognition memory.
+  prediction on recognition memory
 publication_types:
   - "0"
 authors:
   - admin
-  - hey
+  - Joost Rommers
+  - Cassandra L. Jacobs
+  - Kara D. Federmeier
 doi: https://doi.org/10.3389/fnhum.2019.00291
 publication: Frontiers in Human Neuroscience
 abstract: When people process language, they can use context to predict upcoming
