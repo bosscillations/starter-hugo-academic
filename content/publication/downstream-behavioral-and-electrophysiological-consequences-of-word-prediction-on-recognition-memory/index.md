@@ -2,7 +2,7 @@
 title: Downstream behavioral and electrophysiological consequences of word
   prediction on recognition memory
 publication_types:
-  - "0"
+  - "2"
 authors:
   - admin
   - Joost Rommers
