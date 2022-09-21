@@ -4,8 +4,10 @@ title: "High F0 and musicianship make a difference: Pitch-shift responses across
 publication_types:
   - "2"
 authors:
+  - Brantly A. Sturgeon
   - admin
-  - test
+  - Sara A. Schmidt
+  - Torrey M. Loucks
 doi: https://doi.org/10.1016/j.wocn.2014.12.001
 publication: Journal of Phonetics
 abstract: The control of vocal pitch plays a central role in speech and singing,
@@ -34,5 +36,5 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-date: 2022-09-21T19:56:54.407Z
+date: 2015-01-10T19:56:54.407Z
 ---
