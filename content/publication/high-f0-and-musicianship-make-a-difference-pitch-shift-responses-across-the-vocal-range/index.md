@@ -9,7 +9,7 @@ authors:
   - Sara A. Schmidt
   - Torrey M. Loucks
 doi: https://doi.org/10.1016/j.wocn.2014.12.001
-publication: Journal of Phonetics
+publication: "*Journal of Phonetics, 51, 70-81*"
 abstract: The control of vocal pitch plays a central role in speech and singing,
   where accurate tonal production relies on modulating F0 production. Previous
   research has shown that vocal pitch is modulated in response to artificial
