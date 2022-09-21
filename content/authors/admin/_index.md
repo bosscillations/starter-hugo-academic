@@ -1,5 +1,5 @@
 ---
-title: Ryan Hubbard
+title: Ryan J. Hubbard
 role: Postdoctoral Research Associate
 avatar_filename: avatar.png
 bio: Postdoctoral Research Associate at UIUC
