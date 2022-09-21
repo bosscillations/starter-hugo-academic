@@ -110,4 +110,5 @@ security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
 
-citation_style: "apa"
+publications:
+  citation_style: "apa"
