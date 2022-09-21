@@ -4,7 +4,8 @@ publication_types:
   - "1"
 authors:
   - admin
-  - test
+  - Aldis Sipolins
+  - Lin Zhou
 doi: https://doi.org/10.1145/3027385.3027390
 publication: Proceedings of the International Learning Analytics & Knowledge Conference
 abstract: Virtual reality presents exciting new prospects for the delivery of
@@ -26,5 +27,5 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-date: 2022-09-21T20:20:07.073Z
+date: 2017-03-13T20:20:07.073Z
 ---
