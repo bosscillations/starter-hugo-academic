@@ -40,5 +40,12 @@ image:
   focal_point: TopRight
   preview_only: false
   caption: Here's a test caption
+
+<style>
+figcaption {
+  caption-side: top;
+}
+</style>
+
 date: 2019-08-28T19:04:12.138Z
 ---
