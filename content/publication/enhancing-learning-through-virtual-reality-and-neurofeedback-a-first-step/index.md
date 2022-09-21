@@ -7,7 +7,7 @@ authors:
   - Aldis Sipolins
   - Lin Zhou
 doi: https://doi.org/10.1145/3027385.3027390
-publication: Proceedings of the International Learning Analytics & Knowledge Conference
+publication: "*Proceedings of the International Learning Analytics & Knowledge Conference, 398-403*"
 abstract: Virtual reality presents exciting new prospects for the delivery of
   educational materials to students. By combining this technology with
   biological sensors, a student in a virtual educational environment can be
