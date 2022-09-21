@@ -9,7 +9,7 @@ authors:
   - Cassandra L. Jacobs
   - Kara D. Federmeier
 doi: https://doi.org/10.3389/fnhum.2019.00291
-publication: "*Frontiers in Human Neuroscience, 13, 291"
+publication: "*Frontiers in Human Neuroscience, 13, 291*"
 abstract: When people process language, they can use context to predict upcoming
   information, influencing processing and comprehension as seen in both
   behavioral and neural measures. Although numerous studies have shown immediate
