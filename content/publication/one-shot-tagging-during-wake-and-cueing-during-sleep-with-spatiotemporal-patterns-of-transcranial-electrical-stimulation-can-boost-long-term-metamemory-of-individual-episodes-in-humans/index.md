@@ -20,7 +20,7 @@ authors:
   - Vincent P. Clark
   - Michael D. Howard
 doi: https://doi.org/10.3389/fnins.2019.01416
-publication: "*Frontiers in neuroscience, 1416*"
+publication: "*Frontiers in Neuroscience, 1416*"
 abstract: Targeted memory reactivation (TMR) during slow-wave oscillations
   (SWOs) in sleep has been demonstrated with sensory cues to achieve about 5–12%
   improvement in post-nap memory performance on simple laboratory tasks. But
