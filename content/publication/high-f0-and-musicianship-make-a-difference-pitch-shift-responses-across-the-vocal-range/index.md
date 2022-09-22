@@ -32,6 +32,8 @@ abstract: The control of vocal pitch plays a central role in speech and singing,
   musical background.
 draft: false
 featured: false
+tags:
+  - Other
 image:
   filename: featured.png
   focal_point: Smart
