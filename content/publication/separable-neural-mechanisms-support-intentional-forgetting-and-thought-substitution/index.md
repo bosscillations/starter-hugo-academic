@@ -25,6 +25,8 @@ abstract: "Psychological and neuroscientific experiments have established that
   lead to contextual shifting, impairing successful retrieval."
 draft: false
 featured: false
+tags:
+  - Memory
 image:
   filename: featured.png
   focal_point: Smart
