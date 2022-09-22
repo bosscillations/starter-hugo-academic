@@ -36,6 +36,8 @@ abstract: Metamemory involves the ability to correctly judge the accuracy of our
   examining functional connectivity to explain its effects.
 draft: false
 featured: false
+tags:
+  - Memory
 image:
   filename: featured.png
   focal_point: Smart
