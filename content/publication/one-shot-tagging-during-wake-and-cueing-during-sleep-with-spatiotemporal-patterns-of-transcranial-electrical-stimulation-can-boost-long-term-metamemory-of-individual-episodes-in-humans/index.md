@@ -5,8 +5,20 @@ title: One-Shot Tagging During Wake and Cueing During Sleep With Spatiotemporal
 publication_types:
   - "2"
 authors:
+  - Praveen K. Pilly
+  - Steven W. Skorheim
   - admin
-  - test
+  - Nicholas A. Ketz
+  - Shane M. Roach
+  - Itamar Lerner
+  - Aaron P. Jones
+  - Bradley Robert
+  - Natalie B. Bryant
+  - Arno Hartholt
+  - Teagan S. Mullins
+  - Jaehoon Choe
+  - Vincent P. Clark
+  - Michael D. Howard
 doi: https://doi.org/10.3389/fnins.2019.01416
 publication: "*Frontiers in neuroscience, 1416*"
 abstract: Targeted memory reactivation (TMR) during slow-wave oscillations
@@ -38,5 +50,5 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-date: 2022-09-22T00:26:18.918Z
+date: 2020-01-10T00:26:18.918Z
 ---
