@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - admin
-  - test
+  - Lili Sahakyan
 doi: https://doi.org/10.1016/j.cortex.2021.06.013
 publication: "*Cortex, 142, 317-331*"
 abstract: "Psychological and neuroscientific experiments have established that
@@ -29,5 +29,5 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-date: 2022-09-22T01:02:17.874Z
+date: 2021-07-13T01:02:17.874Z
 ---
