@@ -29,6 +29,8 @@ abstract: Although we often seem to successfully comprehend language in the face
   resources may then be required to process unexpected information.
 draft: false
 featured: false
+tags:
+  - Language/Prediction
 image:
   filename: featured.png
   focal_point: Smart
