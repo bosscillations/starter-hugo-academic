@@ -35,6 +35,8 @@ abstract: When meaningful stimuli such as words are encountered in groups or
   conceptual combination.
 draft: false
 featured: false
+tags:
+  - Memory
 image:
   filename: featured.png
   focal_point: Smart
