@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - admin
-  - test
+  - Kara D. Federmeier
 doi: https://doi.org/10.1093/cercor/bhab087
 publication: "*Cerebral Cortex, 31(9), 4300-4313*"
 abstract: "Predicting upcoming events is a critical function of the brain, and
@@ -32,5 +32,5 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-date: 2022-09-22T00:56:44.292Z
+date: 2021-04-24T00:56:44.292Z
 ---
