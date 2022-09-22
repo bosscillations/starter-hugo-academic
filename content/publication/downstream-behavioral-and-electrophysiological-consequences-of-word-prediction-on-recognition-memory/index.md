@@ -35,6 +35,9 @@ abstract: When people process language, they can use context to predict upcoming
   memory and reduced recollection for predictable information.
 draft: false
 featured: false
+tags:
+  - Language/Prediction
+  - Memory
 image:
   filename: featured.png
   focal_point: TopRight
