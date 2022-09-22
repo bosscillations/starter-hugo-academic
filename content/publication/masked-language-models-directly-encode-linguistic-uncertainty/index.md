@@ -3,8 +3,9 @@ title: Masked language models directly encode linguistic uncertainty
 publication_types:
   - "1"
 authors:
+  - Cassandra L. Jacobs
   - admin
-  - test
+  - Kara D. Federmeier
 doi: " https://doi.org/10.7275/znzq-3m28"
 publication: "*Proceedings of the Society for Computation in Linguistics, 5(1), 225-228*"
 abstract: In two experiments we have tested how much context on its own –
@@ -23,5 +24,5 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-date: 2022-09-22T01:19:01.466Z
+date: 2022-02-01T01:19:01.466Z
 ---
