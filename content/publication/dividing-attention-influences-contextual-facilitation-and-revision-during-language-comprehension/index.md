@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - admin
-  - test
+  - Kara D. Federmeier
 doi: https://doi.org/10.1016/j.brainres.2021.147466
 publication: "*Brain Research, 1764, 147466*"
 abstract: Although we often seem to successfully comprehend language in the face
@@ -33,5 +33,5 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-date: 2022-09-22T00:42:58.555Z
+date: 2021-08-01T00:42:58.555Z
 ---
