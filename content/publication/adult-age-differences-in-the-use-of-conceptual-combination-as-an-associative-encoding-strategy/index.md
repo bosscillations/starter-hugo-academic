@@ -39,6 +39,7 @@ abstract: It is well-established that aging impairs memory for associations more
 draft: false
 featured: false
 tags:
+  - Aging
   - Memory
 image:
   filename: featured.png
