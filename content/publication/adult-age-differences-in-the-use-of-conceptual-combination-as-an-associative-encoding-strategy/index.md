@@ -4,8 +4,10 @@ title: Adult age differences in the use of conceptual combination as an
 publication_types:
   - "2"
 authors:
+  - Heather D. Lucas
+  - Resh S. Gupta
   - admin
-  - test
+  - Kara D. Federmeier
 doi: https://doi.org/10.3389/fnhum.2019.00339
 publication: "*Frontiers in Human Neuroscience, 13, 339*"
 abstract: It is well-established that aging impairs memory for associations more
@@ -40,5 +42,5 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-date: 2022-09-22T00:14:00.106Z
+date: 2019-10-10T00:14:00.106Z
 ---
