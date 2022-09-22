@@ -5,7 +5,12 @@ publication_types:
   - "2"
 authors:
   - admin
-  - test
+  - Iman Zadeh
+  - Aaron P. Jones
+  - Bradley Robert
+  - Natalie B. Bryant
+  - Vincent P. Clark
+  - Praveen K. Pilly
 doi: https://doi.org/10.1162/netn_a_00201
 publication: "*Network Neuroscience, 5(3), 734-756*"
 abstract: Metamemory involves the ability to correctly judge the accuracy of our
@@ -35,5 +40,5 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-date: 2022-09-22T01:07:43.453Z
+date: 2021-09-02T01:07:43.453Z
 ---
