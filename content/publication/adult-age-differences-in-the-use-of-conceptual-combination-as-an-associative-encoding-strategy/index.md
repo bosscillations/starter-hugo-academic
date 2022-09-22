@@ -38,6 +38,8 @@ abstract: It is well-established that aging impairs memory for associations more
   and may sometimes exacerbate – age-related memory decline.
 draft: false
 featured: false
+tags:
+  - Memory
 image:
   filename: featured.png
   focal_point: Smart
