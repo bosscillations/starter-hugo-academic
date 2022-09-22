@@ -46,6 +46,8 @@ abstract: Targeted memory reactivation (TMR) during slow-wave oscillations
   spatiotemporal stimulation.
 draft: false
 featured: false
+tags:
+  - Memory
 image:
   filename: featured.png
   focal_point: Smart
