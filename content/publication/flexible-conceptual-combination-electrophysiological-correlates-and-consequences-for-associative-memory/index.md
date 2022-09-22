@@ -4,8 +4,9 @@ title: "Flexible conceptual combination: Electrophysiological correlates and
 publication_types:
   - "2"
 authors:
+  - Heather D. Lucas
   - admin
-  - test
+  - Kara D. Federmeier
 doi: " https://doi.org/10.1111/psyp.12840"
 publication: "*Psychophysiology, 54(6), 833-847*"
 abstract: When meaningful stimuli such as words are encountered in groups or
@@ -38,5 +39,5 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-date: 2022-09-21T23:55:25.470Z
+date: 2017-02-13T23:55:25.470Z
 ---
