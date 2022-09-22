@@ -23,6 +23,8 @@ abstract: Virtual reality presents exciting new prospects for the delivery of
   prediction accuracy.
 draft: false
 featured: false
+tags:
+  - Other
 image:
   filename: featured.png
   focal_point: Smart
