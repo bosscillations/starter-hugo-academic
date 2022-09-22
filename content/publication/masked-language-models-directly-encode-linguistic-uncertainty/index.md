@@ -9,7 +9,7 @@ authors:
 doi: " https://doi.org/10.7275/znzq-3m28"
 publication: "*Proceedings of the Society for Computation in Linguistics, 5(1), 225-228*"
 abstract: In two experiments we have tested how much context on its own –
-  without knowledge of the final word –can directly encode the predictability of
+  without knowledge of the final word – can directly encode the predictability of
   upcoming linguistic information. In contrast to prior work focusing on
   surprisal, this work leverages experimenter-defined labels (sentential
   constraint categories) and sentence embeddings derived from the LLM RoBERTa
@@ -20,6 +20,8 @@ abstract: In two experiments we have tested how much context on its own –
   of the target word and relatedly the entropy of participants’ responses.
 draft: false
 featured: false
+tags:
+  - Language/Prediction
 image:
   filename: featured.png
   focal_point: Smart
