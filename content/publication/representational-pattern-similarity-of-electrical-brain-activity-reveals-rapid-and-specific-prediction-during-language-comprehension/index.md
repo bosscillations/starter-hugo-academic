@@ -28,6 +28,8 @@ abstract: "Predicting upcoming events is a critical function of the brain, and
   predicted features may receive reduced processing upon confirmation."
 draft: false
 featured: false
+tags:
+  - Language/Prediction
 image:
   filename: featured.png
   focal_point: Smart
