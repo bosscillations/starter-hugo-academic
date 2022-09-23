@@ -30,7 +30,7 @@ abstract: Although we often seem to successfully comprehend language in the face
 draft: false
 featured: false
 tags:
-  - Language/Prediction
+  - Language
 image:
   filename: featured.png
   focal_point: Smart
