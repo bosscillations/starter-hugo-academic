@@ -4,7 +4,7 @@ date: 2022-09-23T23:19:26.465Z
 draft: false
 featured: false
 tags:
-  - Language/Prediction
+  - Language&Prediction
 image:
   filename: featured
   focal_point: Smart
