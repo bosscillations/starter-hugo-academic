@@ -4,7 +4,7 @@ date: 2022-09-23T23:24:03.116Z
 draft: false
 featured: false
 tags:
-  - Language/Prediction
+  - Language
   - Aging
 image:
   filename: featured
