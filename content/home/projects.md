@@ -28,7 +28,7 @@ content:
     - name: All
       tag: '*'
     - name: Language & Prediction
-      tag: Language&Prediction
+      tag: Language
     - name: Memory
       tag: Memory
     - name: Aging
