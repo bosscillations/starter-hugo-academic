@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Projects
+title: Ongoing Projects
 subtitle: ''
 
 content:
@@ -27,10 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Language / Prediction
+      tag: Language/Prediction
+    - name: Memory
+      tag: Memory
+    - name: Aging
+      tag: Aging
+    - name: EEG
+      tag: EEG
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
