@@ -21,7 +21,7 @@ abstract: In two experiments we have tested how much context on its own –
 draft: false
 featured: false
 tags:
-  - Language/Prediction
+  - Language
 image:
   filename: featured.png
   focal_point: Smart
