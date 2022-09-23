@@ -29,7 +29,7 @@ abstract: "Predicting upcoming events is a critical function of the brain, and
 draft: false
 featured: false
 tags:
-  - Language/Prediction
+  - Language
 image:
   filename: featured.png
   focal_point: Smart
