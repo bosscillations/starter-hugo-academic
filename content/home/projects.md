@@ -27,7 +27,7 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Language / Prediction
+    - name: Language & Prediction
       tag: Language/Prediction
     - name: Memory
       tag: Memory
