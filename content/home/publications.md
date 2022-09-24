@@ -13,6 +13,19 @@ title: Publications
 subtitle: ''
 
 content:
+  filter_default: 0
+  filter_button:
+    - name: All
+      tag: '*'
+    - name: Language & Prediction
+      tag: Language
+    - name: Memory
+      tag: Memory
+    - name: Aging
+      tag: Aging
+    - name: EEG
+      tag: EEG
+  
   # Filter on criteria
   filters:
     folders:
@@ -35,7 +48,3 @@ design:
   view: citation
   columns: '2'
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
