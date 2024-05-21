@@ -3,7 +3,7 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#700018"
+  primary = "#46166b"
 
   # Menu
   menu_primary = "#000"
@@ -12,13 +12,13 @@ name = "my_theme"
   menu_title = "#fff"
 
   # Backgrounds
-  background = "#e6e6e6"
-  home_section_odd = "#e6e6e6"
-  home_section_even = "#e6e6e6"
+  background = "#eeb211"
+  home_section_odd = "#eeb211"
+  home_section_even = "#eeb211"
   
 [dark]
   # Primary
-  primary = "#a00030"
+  primary = "#eeb211"
 
   # Menu
   menu_primary = "#000"
@@ -27,6 +27,6 @@ name = "my_theme"
   menu_title = "#fff"
 
   # Backgrounds
-  background = "#323232"
-  home_section_odd = "#323232"
-  home_section_even = "#323232"
+  background = "#46166b"
+  home_section_odd = "#46166b"
+  home_section_even = "#46166b"
