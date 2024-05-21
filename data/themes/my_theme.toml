@@ -12,9 +12,9 @@ name = "my_theme"
   menu_title = "#fff"
 
   # Backgrounds
-  background = "#eeb211"
-  home_section_odd = "#eeb211"
-  home_section_even = "#eeb211"
+  background = "#e6e6e6"
+  home_section_odd = "#e6e6e6"
+  home_section_even = "#e6e6e6"
   
 [dark]
   # Primary
