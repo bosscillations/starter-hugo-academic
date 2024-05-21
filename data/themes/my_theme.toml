@@ -4,6 +4,8 @@ name = "my_theme"
 [light]
   # Primary
   primary = "#46166b"
+  primary_light = "#d4af37" # gold metallic
+  primary_dark = "#b6b6b6" # gray, highlight of project titles
 
   # Menu
   menu_primary = "#000"
