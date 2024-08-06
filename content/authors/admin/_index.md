@@ -32,7 +32,7 @@ social:
     link: https://www.linkedin.com/in/ryan-hubbard-83738613b/
   - display:
       header: false
-    link: /uploads/CV_7_28_2022.pdf
+    link: /uploads/CV_8_6_2024.pdf
     icon_pack: ai
     icon: cv
 organizations:
