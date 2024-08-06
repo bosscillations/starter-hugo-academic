@@ -3,7 +3,9 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#700018"
+  primary = "#46166b"
+  primary_light = "#d4af37" # gold metallic
+  primary_dark = "#b6b6b6" # gray, highlight of project titles
 
   # Menu
   menu_primary = "#000"
@@ -18,7 +20,9 @@ name = "my_theme"
   
 [dark]
   # Primary
-  primary = "#a00030"
+  primary = "#eeb211"
+  primary_light = "#d4af37" # gold metallic
+  primary_dark = "#b6b6b6" # gray, highlight of project titles
 
   # Menu
   menu_primary = "#000"
@@ -27,6 +31,6 @@ name = "my_theme"
   menu_title = "#fff"
 
   # Backgrounds
-  background = "#323232"
-  home_section_odd = "#323232"
-  home_section_even = "#323232"
+  background = "#46166b"
+  home_section_odd = "#46166b"
+  home_section_even = "#46166b"
