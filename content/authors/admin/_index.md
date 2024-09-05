@@ -1,7 +1,7 @@
 ---
 title: Ryan J. Hubbard
 role: Assistant Professor
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: Assistant Professor at UAlbany
 interests:
   - Cognitive Neuroscience
