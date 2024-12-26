@@ -3,7 +3,7 @@ title: Delayed testing in directed forgetting dissociates active and passive for
 publication_types:
   - "2"
 authors:
-  - Jonathon Whitlock
+  - Jonathon Whitlocka
   - Huiyu Ding
   - admin
   - Lili Sahakyan
